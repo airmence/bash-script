@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-# Inform the user of teh output they can expect.
+# Inform the user of the output they can expect.
 echo "common commands :"
 
 #show the most commonly used commands.
